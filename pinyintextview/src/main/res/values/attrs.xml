@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PinyinTextView">
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="pinyinColor" format="color"/>
+        <attr name="pinyinTextSpace" format="dimension" />
+        <attr name="horizontalSpace" format="dimension" />
+        <attr name="lineSpace" format="dimension" />
+        <attr name="underlineVerticalSpace" format="dimension" />
+        <attr name="underline" format="boolean" />
+    </declare-styleable>
+</resources>

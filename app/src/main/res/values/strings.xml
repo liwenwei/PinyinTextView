@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PinyinTextView</string>
+
+    <string-array name="line_space_array">
+        <item>6</item>
+        <item>10</item>
+        <item>14</item>
+    </string-array>
+
+    <string-array name="horizontal_space_array">
+        <item>2</item>
+        <item>6</item>
+        <item>10</item>
+    </string-array>
+</resources>

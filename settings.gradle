@@ -1,0 +1,2 @@
+include ':app', ':pinyintextview'
+rootProject.name='PinyinTextView'
