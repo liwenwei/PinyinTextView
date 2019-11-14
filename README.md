@@ -1,3 +1,5 @@
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.liwenwei.pinyintextview/pinyintextview/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.liwenwei.pinyintextview/pinyintextview/badge.svg)
+
 # PinyinTextView
 一个简单灵活的汉语拼音Widget
 
