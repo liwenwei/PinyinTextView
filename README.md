@@ -11,7 +11,7 @@
 
 首先将PinyinTextView引用到你的项目中，例如 Gradle compile dependency:
 ```groovy
-implementation "com.liwenwei.pinyintextview:pinyintextview:1.0.0"
+implementation "com.liwenwei.pinyintextview:pinyintextview:1.0.1"
 ```
 
 ### Usage
